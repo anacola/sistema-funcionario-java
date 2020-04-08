@@ -13,7 +13,7 @@
 
 ## 1. Sobre o projeto
 Aplicação desenvolvida para controle e consulta de funcionários.
-Para isso foi criado um banco de dados no MySQL e interface JAVA>
+Para isso foi criado um banco de dados no MySQL e interface JAVA.
 
 
 ## 2. Funcionalidades da aplicação
