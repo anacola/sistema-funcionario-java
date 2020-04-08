@@ -43,7 +43,7 @@ A tabela FUNCIONÁRIOS deverá se chamar *funcionarios* e deverá ser criada com
 
 A tabela CARGOS deverá se chamar *cargos* e deverá ser criada com as definições do exemplo abaixo.
 
-![tabela funcionários](img/tabelafuncionarios.png)
+![tabela funcionários](img/tabelacargos.png)
 
 ## 4. Visualização
 
