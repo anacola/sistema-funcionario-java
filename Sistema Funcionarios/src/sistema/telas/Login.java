@@ -27,7 +27,7 @@ public class Login extends JPanel {
 	private void criarComponentes() {
 		setLayout(null);
 		
-		JLabel labelTitulo = new JLabel("Seja Bem vindo ao Sistema da Cola SA!", JLabel.CENTER);
+		JLabel labelTitulo = new JLabel("Seja Bem vindo ao Sistema SA!", JLabel.CENTER);
 		labelTitulo.setFont(new Font(labelTitulo.getFont() .getName(), Font.PLAIN, 18));
 		
 		labelUsuario = new JLabel("Usuário", JLabel.LEFT);
